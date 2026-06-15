@@ -1,0 +1,19 @@
+# Build
+bin/
+dist/
+*.exe
+*.out
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Air
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
